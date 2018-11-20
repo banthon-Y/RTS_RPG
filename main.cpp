@@ -2,6 +2,7 @@
 Week 8
 Class Imp
 Author: Anthony McGuigan
+20/11/2018 - payday ;)
 */
 
 #include "item.h"
